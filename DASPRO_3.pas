@@ -1,4 +1,4 @@
-program Biodata;
+program tugas;
 uses crt;
 
 var
