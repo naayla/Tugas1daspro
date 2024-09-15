@@ -1,5 +1,4 @@
 program tugas;
-
 var
   jalan, kota: string;
   no, kodePos: string;
