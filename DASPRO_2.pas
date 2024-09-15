@@ -1,4 +1,4 @@
-program DaftarNamaBulan;
+program tugas;
 uses crt;
 begin
   clrscr;  
