@@ -1,4 +1,4 @@
-program AlamatLengkap;
+program tugas;
 
 var
   jalan, kota: string;
