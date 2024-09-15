@@ -1,11 +1,9 @@
 program tugas;
 uses crt;
-
 var
   nama, nim, kom, alamat: string;
 begin
   clrscr;
-  
   write('Masukkan Nama Anda: ');
   readln(nama);
   write('Masukkan NIM Anda: ');
